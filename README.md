@@ -36,5 +36,9 @@ Promotion's
 Masternode.online
 https://masternodes.online/currencies/GALI/
 
+-----------------------------------------------------
+Setting up a Masternode
+-----------------------------------------------------
+
 
 by GALILEL.NETWORK TEAM
